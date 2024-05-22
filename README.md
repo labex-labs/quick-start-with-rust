@@ -4,8 +4,8 @@
 
 This course is designed to teach you the basics of using Ansible to configure Linux hosts. It includes an introduction to Ansible, installation, and a few simple examples of using Ansible to perform common tasks.
 
-![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux&link=https%3A%2F%2Flabex.io%2Fskilltrees)
-![Rust](https://img.shields.io/badge/Rust-whitesmoke?style=for-the-badge&logo=rust&link=https%3A%2F%2Flabex.io%2Fskilltrees)
+![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
+![Rust](https://img.shields.io/badge/Rust-whitesmoke?style=for-the-badge&logo=rust)
 
 
 ## Scenarios
