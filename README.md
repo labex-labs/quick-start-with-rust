@@ -10,8 +10,8 @@ This course is designed to teach you the basics of using Ansible to configure Li
 
 ## Scenarios
 
-|   Index | Name                                        | Difficulty   | URL                                                                  |
-|---------|---------------------------------------------|--------------|----------------------------------------------------------------------|
+|   Index | Name                                       | Difficulty   | URL                                                                  |
+|---------|--------------------------------------------|--------------|----------------------------------------------------------------------|
 |      01 | 📖 Your First Rust Lab                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/101055'>Start Lab</a> |
 |      02 | 📖 Rust Installation Guide                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/100383'>Start Lab</a> |
 |      03 | 📖 Beginner's Rust Programming: Hello World | ★☆☆          | <a target='_blank' href='https://labex.io/labs/100384'>Start Lab</a> |
