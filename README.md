@@ -10,7 +10,7 @@ This course is designed to teach you the basics of using Ansible to configure Li
 
 ## Scenarios
 
-|   Index | Name                                       | Difficulty   | URL                                                                  |
+|   Index | Name                                       | Difficulty   | Practice                                                             |
 |---------|--------------------------------------------|--------------|----------------------------------------------------------------------|
 |      01 | 📖 Your First Rust Lab                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/101055'>Start Lab</a> |
 |      02 | 📖 Rust Installation Guide                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/100383'>Start Lab</a> |
@@ -22,4 +22,9 @@ This course is designed to teach you the basics of using Ansible to configure Li
 |      08 | 📖 Defining Rust Functions in LabEx         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/100389'>Start Lab</a> |
 |      09 | 📖 Rust Comments Explanation and Annotation | ★☆☆          | <a target='_blank' href='https://labex.io/labs/100390'>Start Lab</a> |
 |      10 | 📖 Rust Control Flow Fundamentals           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/100391'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Rust Free Tutorials](https://github.com/labex-labs/rust-free-tutorials)
 
