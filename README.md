@@ -1,6 +1,6 @@
 # Quick Start with Rust
 
-![Quick Start with Rust](https://cover-creator.labex.io/quick-start-with-rust.png)
+![Quick Start with Rust](https://cover-creator.appbot.io/quick-start-with-rust.png)
 
 This course is designed to teach you the basics of using Ansible to configure Linux hosts. It includes an introduction to Ansible, installation, and a few simple examples of using Ansible to perform common tasks.
 
