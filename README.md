@@ -2,7 +2,7 @@
 
 ![Quick Start with Rust](https://cover-creator.appbot.io/quick-start-with-rust.png)
 
-This course is designed to teach you the basics of using Ansible to configure Linux hosts. It includes an introduction to Ansible, installation, and a few simple examples of using Ansible to perform common tasks.
+This course is designed to help you get started with Rust programming language. You will learn how to install Rust, write your first Rust program, and understand the basic concepts of Rust programming language.
 
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 ![Rust](https://img.shields.io/badge/Rust-whitesmoke?style=for-the-badge&logo=rust)
