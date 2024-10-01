@@ -26,8 +26,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                        | Difficulty   | Practice                                                                                                                |
-|---------|---------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                       | Difficulty   | Practice                                                                                                                |
+|---------|--------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Your First Rust Lab                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/rust-your-first-rust-lab-101055'>Start Lab</a>                      |
 |      02 | 📖 Rust Installation Guide                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/rust-installation-guide-100383'>Start Lab</a>                       |
 |      03 | 📖 Beginner's Rust Programming: Hello World | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/rust-beginner-s-rust-programming-hello-world-100384'>Start Lab</a>  |
